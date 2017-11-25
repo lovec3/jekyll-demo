@@ -96,7 +96,7 @@ end
 
 ### Small image
 
-![](20171108_151102.jpg)
+![](/20171108_151102.jpg)
 
 ### Large image
 
