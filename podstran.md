@@ -1,5 +1,5 @@
 ---
 layout: default
-title ena podstran
+title: ena podstran
 ---
 bbbb
